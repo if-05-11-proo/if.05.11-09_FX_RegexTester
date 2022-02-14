@@ -17,7 +17,7 @@ matching text against regular expressions may be reused from that assignment.
 
 __Sample UI:__
 The application may look like shown below
-[./images/SampleUi[Sample UI]]
+!(./images/SampleUi.png "Sample UI")
 The shown sample UI shall give you an idea how to structure the HMI of 
 the application using JavaFX Controls.   
 You may design and style your application as you wish as long the required
