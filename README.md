@@ -15,7 +15,7 @@ shall be presented.
 This assignment is based on assignment "CLI RegexTester". The logic for
 matching text against regular expressions may be reused from that assignment.
 
-__Sample UI:__
+__Sample UI:__   
 The application may look like shown below
 
 ![Sample UI](images/SampleUi.png)
